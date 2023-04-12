@@ -1,0 +1,34 @@
+{
+    "employees": [
+        {
+            "name": "John Doe",
+            "position": "Software Engineer",
+            "age": 28,
+            "skills": [
+                "Python",
+                "JavaScript",
+                "C++"
+            ]
+        },
+        {
+            "name": "Jane Smith",
+            "position": "Data Analyst",
+            "age": 32,
+            "skills": [
+                "SQL",
+                "Python",
+                "R"
+            ]
+        },
+        {
+            "name": "Michael Brown",
+            "position": "Project Manager",
+            "age": 35,
+            "skills": [
+                "PMP",
+                "Agile",
+                "Scrum"
+            ]
+        }
+    ]
+}
